@@ -1,0 +1,1 @@
+https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Ctether.ethereum%2Clitecoin%2Ccardano%2Cdogecoin&vs_currencies=usd%2Cbrl&include_market_cap=true&include_24hr_vol=true
